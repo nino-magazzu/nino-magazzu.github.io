@@ -89,13 +89,13 @@ experiences:
       time: 2018 - 2020
       company: Capgemini, Rome
       details: |
-        Design and development of microservices based middleware solutions deployed both on premise and on cloud environment. 
+        Design and development of microservices based middleware solutions deployed both on premise and on cloud environment.<br>
         Technologies: Java, Akka, Web Services (SOAP/REST), OAuth 2.0 Framework, Couchbase, devops tool (Jenkins e Ansible), docker, kubernetes, AWS
     - role: Analyst Consultant
       time: 2015 - 2018
       company: Capgemini, Rome
       details: |
-        Development of microservices based middleware solutions deployed both on premise and on cloud environment.
+        Development of microservices based middleware solutions deployed both on premise and on cloud environment.<br>
         Technologies: Java, Akka, Web Services (SOAP/REST), OAuth 2.0 Framework, Couchbase, devops tool (Jenkins e Ansible), docker, kubernetes, AWS
 
 skills:
