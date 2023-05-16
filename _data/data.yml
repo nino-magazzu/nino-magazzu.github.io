@@ -102,22 +102,22 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Container & K8s
+    - name: Cloud Native Architecture
       level: 60%
 
     - name: Domain Driven Design
       level: 50%
 
-    - name: Java
+    - name: Integreation Pattern
       level: 50%
 
-    - name: MongoDB
+    - name: NoSQL Database and RDBMS
       level: 40%
 
     - name: AWS
       level: 30%
 
-    - name: Platform Business Model
+    - name: Platform Model
       level: 30%
 
 footer: >
