@@ -102,20 +102,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Java
-      level: 70%
-
-    - name: Docker & K8s
+    - name: Container & K8s
       level: 60%
-
-    - name: MongoDB
-      level: 50%
-
-    - name: AWS
-      level: 50%
 
     - name: Domain Driven Design
-      level: 60%
+      level: 50%
+
+    - name: Java
+      level: 50%
+
+    - name: MongoDB
+      level: 40%
+
+    - name: AWS
+      level: 30%
+
+    - name: Platform Business Model
+      level: 30%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
