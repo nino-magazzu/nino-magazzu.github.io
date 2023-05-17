@@ -102,16 +102,16 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: Cloud Native Architecture
+    - name: Cloud Native
       level: 60%
 
-    - name: Domain Driven Design
+    - name: Domain-driven Design
       level: 50%
 
     - name: Integreation Pattern
       level: 50%
 
-    - name: NoSQL Database and RDBMS
+    - name: NoSQL and RDBMS
       level: 40%
 
     - name: Platform Model
